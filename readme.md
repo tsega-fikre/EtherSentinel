@@ -1,4 +1,19 @@
-# 🔍 Professional Network Scanner
+
+
+#  Professional Network Scanner
+```markdown
+    ██╗  ██╗████████╗██╗  ██╗███████╗██████╗ ███████╗███████╗███╗   ██╗████████╗██╗███╗   ██╗███████╗██╗
+    ██║  ██║╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝██╔════╝████╗  ██║╚══██╔══╝██║████╗  ██║██╔════╝██║
+    ███████║   ██║   ███████║█████╗  ██████╔╝█████╗  ███████╗██╔██╗ ██║   ██║   ██║██╔██╗ ██║█████╗  ██║
+    ██╔══██║   ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝  ╚════██║██║╚██╗██║   ██║   ██║██║╚██╗██║██╔══╝  ██║
+    ██║  ██║   ██║   ██║  ██║███████╗██║  ██║███████╗███████║██║ ╚████║   ██║   ██║██║ ╚████║███████╗███████╗
+    ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
+
+╔════════════════════════════════════════════════════════════════════╗
+║            EtherSentinel - Network Discovery & Scanner             ║
+║        Fast • Stealthy • Professional Network Recon Tool           ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -17,21 +32,21 @@ A powerful, multi-threaded network scanner for host discovery and port scanning.
 ## ✨ Features
 
 ### Core Capabilities
-- 🔍 **Host Discovery** - Fast ping sweep to identify live hosts on your network
-- 🚪 **Port Scanning** - Multi-threaded TCP port scanning with configurable port ranges
-- 📡 **Banner Grabbing** - Identify service versions (SSH, HTTP, FTP, etc.)
-- ⚡ **Multi-threading** - High-performance scanning with adjustable thread counts
-- 🌍 **Cross-Platform** - Works on Linux, Windows, and macOS
-- 📊 **JSON Export** - Professional reporting with structured output
+-  **Host Discovery** - Fast ping sweep to identify live hosts on your network
+-  **Port Scanning** - Multi-threaded TCP port scanning with configurable port ranges
+-  **Banner Grabbing** - Identify service versions (SSH, HTTP, FTP, etc.)
+-  **Multi-threading** - High-performance scanning with adjustable thread counts
+-  **Cross-Platform** - Works on Linux, Windows, and macOS
+-  **JSON Export** - Professional reporting with structured output
 
 ### Advanced Features
-- 🎯 **Auto Network Detection** - Automatically detects your local network
-- 🔧 **Custom Port Lists** - Scan specific ports or ranges
-- ⏱️ **Configurable Timeouts** - Optimize for network conditions
-- 🔒 **Thread-Safe** - No race conditions, stable scanning
-- 📈 **Real-time Progress** - See results as they're discovered
+-  **Auto Network Detection** - Automatically detects your local network
+-  **Custom Port Lists** - Scan specific ports or ranges
+-  **Configurable Timeouts** - Optimize for network conditions
+-  **Thread-Safe** - No race conditions, stable scanning
+-  **Real-time Progress** - See results as they're discovered
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.7 or higher
 - No additional pip packages required (uses only standard library)
